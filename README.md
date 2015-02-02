@@ -7,4 +7,4 @@ Flat-UI colors available in major CSS preprocessor languages
  - [Less](http://lesscss.org)
 
 
-All colors are picked from [flatuicolorpicker.com](http://www.flatuicolorpicker.com) and many thanks to [Vasilis Baimas](http://www.vbaimas.com) for creating it.
+All colors are picked from [flatuicolorpicker.com](http://www.flatuicolorpicker.com) and many thanks to [@vbaimas](https://twitter.com/vbaimas) for creating it.
