@@ -9,3 +9,7 @@ Flat-UI colors available in major CSS preprocessor languages
 
 
 All colors are picked from [flatuicolorpicker.com](http://www.flatuicolorpicker.com) and many thanks to [@vbaimas](https://twitter.com/vbaimas) for creating it.
+
+## Preview
+
+![Color Scheme Preview](http://i.imgur.com/UhUGPTk.png)
